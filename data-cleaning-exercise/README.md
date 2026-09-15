@@ -1,4 +1,4 @@
-# Power BI Data Cleaning Project
+# Power BI Data Cleaning Exercise
 
 ## Overview
 A small exercise cleaning a raw dataset in Power Query to make it analysis-ready — resolving irrelevant columns, blank rows, duplicates, inconsistent text formatting, and data type/error issues.
