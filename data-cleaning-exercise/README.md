@@ -15,14 +15,16 @@ A small exercise cleaning a raw dataset in Power Query to make it analysis-ready
 | 6 | **Changed Case (Lowercase)** | Applied to *Email* for consistent formatting |
 | 7 | **Rounded Up** | Applied to the *Amount* column |
 | 8 | **Rounded to 1 Decimal** | Applied to the *Price* column |
-| 9 | **Replaced Value (Invalid Characters)** | *Order Date* contained an unexpected character causing conversion errors. Replaced the character, then replaced the resulting errors with `null` |
+| 9 | **Replaced Value (Invalid Characters)** | *Order Date* contained an unexpected character causing conversion errors. Replaced the character, then replaced the 
+resulting errors with `null` |
 | 10 | **Changed Type** | Set correct data types across cleaned columns (e.g. Date, Number) once formatting issues were resolved |
 
 ## Outcome
 The dataset went from having irrelevant fields, blank/duplicate rows, inconsistent text casing and spacing, and a broken date column, to a clean, consistently formatted table ready for analysis and visualisation in Power BI.
 
 ## Screenshots
-<img width="817" height="392" alt="Screenshot 2026-09-15 165546" src="https://github.com/user-attachments/assets/60379ea1-c371-45d0-8e0f-654472ac9ef7" />
+<img width="365" height="176" alt="Screenshot 2026-09-16 121819" src="https://github.com/user-attachments/assets/1da02191-4f08-43f2-abcb-74389e5b5fc4" />
+<img width="925" height="188" alt="Screenshot 2026-09-16 121801" src="https://github.com/user-attachments/assets/57f06475-2b5a-4e22-bea8-0d34f713e941" />
 
 ## Tools Used
 - Power BI (Power Query Editor)
